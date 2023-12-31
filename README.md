@@ -17,7 +17,7 @@ Equip yourself with the essentials:
 1. Clone the Treasure Map: Start by cloning this repository. Your journey begins here.
 
    ```bash
-   git clone https://github.com/Omkar-Gorde/Chain-Pain-Flag-CTF.git
+   git clone https://github.com/Omkar-Gorde/Chain-Pain-Flag.git
    ```
 
 2. Enter the Enchanted Forest: Navigate to the project directory and heed the whispers of the challenges that await.

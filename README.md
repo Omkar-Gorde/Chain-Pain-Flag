@@ -2,7 +2,7 @@
 
 ## 🧩 Unravel the Mystery
 
-Greetings, brave soul! You've stumbled upon the Chain-Pain-Flag Capture The Flag (CTF) challenge—a labyrinth of encrypted files, hidden clues, and mind-bending puzzles designed to test your mettle in the realm of cybersecurity and cryptography.
+Greetings, brave soul! You've stumbled upon the Chain-Pain-Flag Capture The Flag (CTF) challenge, a labyrinth of encrypted files, hidden clues, and mind-bending puzzles designed to test your mettle in the realm of cybersecurity and cryptography.
 
 ## 🛠 Tools of the Trade
 
@@ -26,7 +26,7 @@ Equip yourself with the essentials:
    cd Chain-Pain-Flag-CTF
    ```
 
-3. Summon Your Allies: Review the `requirements.txt` to ensure you're equipped with the necessary incantations—erm, libraries.
+3. Summon Your Allies: Review the `requirements.txt` to ensure you're equipped with the necessary incantations - erm, libraries.
 
 ## 🗝️ Decipher the Secrets
 
